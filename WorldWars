@@ -1,1 +1,24 @@
-# WorldWars
+name: World Wars Family
+key: World
+color: red
+emblem: Flame_03
+info:
+  description: >
+    World Wars es uno de los clanes top de Colombia,
+    con canteras sumando mas de 200 miembros en nuestros 4 clanes!
+    Somos fuertes en Guerra de Clanes y la idea es seguir creciendo como familia.
+    **Unete a WORLD WARS y pasa una experiencia increible!!!**
+    
+    Clanes de Guerra: World Wars, World Wars 2, World Wars 3.
+    Clanes de Copas: World Panas.
+    social:
+    - discord: https://discord.gg/AgYyZKEt4k
+clans:
+  - name: World Wars
+    tag: 8LG090QR
+  - name: World Wars 2
+    tag: QR28UJ8L
+  - name: World Wars 3
+    tag: LUQLJG9Q
+  - name: World Panas
+    tag: QQU898JQ
